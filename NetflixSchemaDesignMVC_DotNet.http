@@ -1,0 +1,6 @@
+@NetflixSchemaDesignMVC_DotNet_HostAddress = http://localhost:5259
+
+GET {{NetflixSchemaDesignMVC_DotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
